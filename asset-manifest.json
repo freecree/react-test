@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fund-react-test/static/css/main.d99b2e1f.css",
+    "main.js": "/fund-react-test/static/js/main.6275ee0d.js",
+    "index.html": "/fund-react-test/index.html",
+    "main.d99b2e1f.css.map": "/fund-react-test/static/css/main.d99b2e1f.css.map",
+    "main.6275ee0d.js.map": "/fund-react-test/static/js/main.6275ee0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d99b2e1f.css",
+    "static/js/main.6275ee0d.js"
+  ]
+}
